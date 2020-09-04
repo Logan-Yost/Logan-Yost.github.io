@@ -1,6 +1,6 @@
-# Logan-Yost.github.io
+Logan-Yost.github.io
 
-Hi there! Welcome to my website
+Hi there! Welcome to my website. This is for my BACS 200 course.
 
 
 Logan Yost
